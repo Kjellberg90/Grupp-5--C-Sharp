@@ -1,0 +1,16 @@
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\bin\Debug\net5.0\VolvoDesign.exe
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\bin\Debug\net5.0\VolvoDesign.deps.json
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\bin\Debug\net5.0\VolvoDesign.runtimeconfig.json
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\bin\Debug\net5.0\VolvoDesign.runtimeconfig.dev.json
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\bin\Debug\net5.0\VolvoDesign.dll
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\bin\Debug\net5.0\ref\VolvoDesign.dll
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\bin\Debug\net5.0\VolvoDesign.pdb
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\VolvoDesign.csproj.AssemblyReference.cache
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\VolvoDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\VolvoDesign.AssemblyInfoInputs.cache
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\VolvoDesign.AssemblyInfo.cs
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\VolvoDesign.csproj.CoreCompileInputs.cache
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\VolvoDesign.dll
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\ref\VolvoDesign.dll
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\VolvoDesign.pdb
+C:\Users\penny\source\repos\VolvoDesign\VolvoDesign\obj\Debug\net5.0\VolvoDesign.genruntimeconfig.cache
